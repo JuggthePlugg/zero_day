@@ -1,1 +1,1 @@
-This repo contains the vagrant task
+*This repo is for the vagrant task*
